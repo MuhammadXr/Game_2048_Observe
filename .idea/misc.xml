@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/about_btn.xml" value="0.2055" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_1.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_10.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_11.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_2.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_3.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_4.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_5.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_6.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_7.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_8.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/background_9.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/baground_l.xml" value="0.2055" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/bg_best_score.xml" value="0.2055" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/bg_new.xml" value="0.2295" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/ic_launcher_background.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.244" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/play.xml" value="0.2055" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/play_ain_bg.xml" value="0.2055" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/rounded_corner.xml" value="0.2055" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/drawable/timer_bg.xml" value="0.2055" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/layout-land/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/layout/activity_about.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/layout/activity_menu.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/layout/game_over.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/layout/new_game.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/xolxu/Downloads/Game 2048 Observe/Game2048Observe/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.244" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
