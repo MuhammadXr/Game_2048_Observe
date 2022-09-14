@@ -21,6 +21,7 @@
         <activity
             android:name="uz.gita.game2048observeXR.MainActivity"
             android:exported="false"
+            android:screenOrientation="portrait"
             />
         <activity
             android:name="uz.gita.game2048observeXR.MenuActivity"

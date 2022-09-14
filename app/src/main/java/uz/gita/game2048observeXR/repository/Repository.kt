@@ -136,6 +136,7 @@ class Repository private constructor(context: Context) {
             }
         }
         addElement()
+        addElement()
 
     }
 
@@ -170,6 +171,7 @@ class Repository private constructor(context: Context) {
             }
         }
         addElement()
+        addElement()
 
     }
 
@@ -202,6 +204,7 @@ class Repository private constructor(context: Context) {
 
             }
         }
+        addElement()
         addElement()
 
     }
@@ -239,6 +242,7 @@ class Repository private constructor(context: Context) {
                 list.add(amounts[j])
             }
         }
+        addElement()
         addElement()
 
     }
@@ -300,7 +304,6 @@ class Repository private constructor(context: Context) {
                 matrix[i][j] = 0
             }
         }
-        addElement()
         addElement()
         score = 0
         move = 0

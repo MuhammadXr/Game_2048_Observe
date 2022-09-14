@@ -203,6 +203,7 @@
         android:id="@+id/timer"
         android:background="@drawable/timer_bg"
         android:layout_width="match_parent"
+        android:layout_marginHorizontal="15dp"
         android:layout_height="50dp"
         android:orientation="horizontal"
         android:gravity="center"

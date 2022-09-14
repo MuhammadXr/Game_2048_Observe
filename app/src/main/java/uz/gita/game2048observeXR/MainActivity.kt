@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
     private var music_e=true
     private  var mp:MediaPlayer?=null
     private  var music:MediaPlayer?=null
+    private var counterD = 0
 
 
     @SuppressLint("SetTextI18n")
@@ -73,7 +74,7 @@ class MainActivity : AppCompatActivity() {
         }
         viewModel.gameOver.observe(this){
 
-            if (it==true){
+            if (it && counterD == 0){
                 textView_time.stop()
                 dialogGameOver()
             }
@@ -211,7 +212,7 @@ class MainActivity : AppCompatActivity() {
 
 
   private  fun dialogGameOver(){
-
+        counterD++
         val builder=AlertDialog.Builder(this,R.style.CustomAlertDialog).create()
         val view:View= LayoutInflater.from(this).inflate(R.layout.game_over,null)
         val textView:TextView= view.findViewById(R.id.text_game_over)
@@ -228,6 +229,7 @@ class MainActivity : AppCompatActivity() {
                 .playOn(playAgain);
 
             viewModel.restart()
+            counterD = 0
             builder.cancel()
         }
 
@@ -238,6 +240,7 @@ class MainActivity : AppCompatActivity() {
                 .playOn(undo);
 
             viewModel.undo()
+          counterD = 0
             builder.cancel()
         }
 

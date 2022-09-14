@@ -24,7 +24,7 @@
         android:gravity="center"
         android:padding="10dp"
         android:text="2048"
-        android:textColor="@color/moves_and_time_color"
+        android:textColor="#A19F97"
         android:textSize="100sp"
         android:textStyle="bold"
         app:layout_constraintVertical_bias="0.3"
